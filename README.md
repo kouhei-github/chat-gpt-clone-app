@@ -2,6 +2,10 @@
 Next.js(13)を触れてみたくて、今回話題のChatGPTを作成することにした。<br>
 開発期間は2日程度なので、UI/UXはまだまだですが暇な時にアップデートしていく。
 
+作成したアプリの画像
+![スクリーンショット 2023-10-09 0 59 43](https://github.com/kouhei-github/chat-gpt-clone-app/assets/49782052/2b9fd460-c949-4e9b-ad42-5707fea424da)
+
+
 下記にデプロイしてますので確認ください。<br>
 [ChatGPT-Clone-AppのURL](https://chat-gpt-clone-app-psi.vercel.app/)
 
