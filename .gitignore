@@ -36,3 +36,4 @@ next-env.d.ts
 
 .env
 firebase-admin.json
+.idea
