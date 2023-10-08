@@ -95,8 +95,9 @@ App Routerを使用すると、今までのpageディレクトリに書く構成
 今までNext.jsでISRを実装しようとすると、page単位だった。<br>
 今回のアップデートで、API単位でISRの実装が可能になった。<br>
 
-下記でご確認ください。<br>
+下記でご確認ください<br>
 [公式ドキュメント](https://nextjs.org/docs/pages/building-your-application/data-fetching/incremental-static-regeneration)
+
 ---
 
 
