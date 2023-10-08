@@ -1,9 +1,9 @@
 # ChatGPT-Clone-App
-Next.js(13)を触れてみたくて、今回話題のChatGPTを作成することにしました。<br>
-開発期間は2日程度なので、UI/UXはまだまだですが暇な時にアップデートしていきます。
+Next.js(13)を触れてみたくて、今回話題のChatGPTを作成することにした。<br>
+開発期間は2日程度なので、UI/UXはまだまだですが暇な時にアップデートしていく。
 
 下記にデプロイしてますので確認ください。<br>
-[ChatGPT-Clone-AppのURL](https://aaa.com/)
+[ChatGPT-Clone-AppのURL](https://chat-gpt-clone-app-psi.vercel.app/)
 
 プロジェクトはGitで管理してますので、クローンして使ってみてください。<br>
 [ChatGPT-Clone-AppのURL](https://github.com/kouhei-github/chat-gpt-clone-app.git)
@@ -12,7 +12,7 @@ Next.js(13)を触れてみたくて、今回話題のChatGPTを作成するこ�
 
 ## 1.ローカルで確認したい時に必要なこと
 ### 1.1 Google OAuth Loginの設定
-今回ログインに**Googleログイン**を使用しています。
+今回ログインに**Googleログイン**を使用した。
 
 下記記事を参考に、IDとSECRET_KEYを.envファイルにセットする。<br>
 [参考: WEBページに「Googleアカウントでログイン」を実装する](https://qiita.com/kmtym1998/items/768212fe92dbaa384c27)
