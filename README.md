@@ -29,6 +29,8 @@ ChatGPTは対話形式のWebアプリケーションなので、チャットア�
 下記記事を参考に、firebase-admin.jsonを作成してください。<br>
 [参考: [実装編]Firebaseをセットアップしよう](https://zenn.dev/hisho/books/617d8f9d6bd78b/viewer/chapter3)
 
+![e16c7a3702ed060d3dd262ad](https://github.com/kouhei-github/chat-gpt-clone-app/assets/49782052/8b694530-5167-4049-a4fa-0c5f43ea2efa)
+
 
 このままuploadすると危険なので、.envファイルに移動させる。
 ```dotenv
