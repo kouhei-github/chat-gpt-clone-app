@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "api/askQuestion": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "api/*": {
+      "memory": 3008,
+      "maxDuration": 15
+    }
+  }
+}
