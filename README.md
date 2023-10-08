@@ -10,7 +10,7 @@ Next.js(13)を触れてみたくて、今回話題のChatGPTを作成するこ�
 [ChatGPT-Clone-AppのURL](https://chat-gpt-clone-app-psi.vercel.app/)
 
 プロジェクトはGitで管理してますので、クローンして使ってみてください。<br>
-[ChatGPT-Clone-AppのURL](https://github.com/kouhei-github/chat-gpt-clone-app.git)
+[chat-gpt-clone-appのGithubリポジトリのURL](https://github.com/kouhei-github/chat-gpt-clone-app.git)
 
 ---
 
