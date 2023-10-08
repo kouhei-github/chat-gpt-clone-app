@@ -1,10 +1,10 @@
 {
   "functions": {
-    "api/askQuestion.ts": {
+    "pages/api/askQuestion.ts": {
       "memory": 3008,
       "maxDuration": 60
     },
-    "api/*.ts": {
+    "pages/api/*.ts": {
       "memory": 3008,
       "maxDuration": 16
     }
